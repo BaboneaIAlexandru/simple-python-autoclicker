@@ -1,11 +1,11 @@
-#Simple Python Auto-Clicker
+# Simple Python Auto-Clicker
 
 I built this script because my fingers got extremely tired while playing a clicker game on Roblox.
 
-##How to use:
+## How to use:
 Press **`F4`** to start/stop
 
-##How to run:
+## How to run:
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt

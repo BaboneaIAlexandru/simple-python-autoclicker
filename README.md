@@ -11,6 +11,10 @@ I built this script because my fingers got extremely tired while playing a click
 - Global hotkey support
 - Low CPU usage
 
+## Preview
+
+<img width="578" height="331" alt="GUI preview v1 0 0" src="https://github.com/user-attachments/assets/40520fa4-9697-4398-b43d-97ffee5ea229" />
+
 ## How to Run
 
 ### Option 1: Download .EXE (Recommended)

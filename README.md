@@ -1,4 +1,4 @@
-# Simple AutoClicker
+# Simple Auto Clicker
 
 I built this script because my fingers got extremely tired while playing a clicker game on Roblox.
 
